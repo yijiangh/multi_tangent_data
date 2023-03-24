@@ -1,0 +1,2727 @@
+{
+ "nodes": [
+  {
+   "node_ind": 0, 
+   "point": [
+    1.75, 
+    -0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 1, 
+   "point": [
+    1.25, 
+    -0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 2, 
+   "point": [
+    -1.7500000000000007, 
+    0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 3, 
+   "point": [
+    -1.2500000000000007, 
+    0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 4, 
+   "point": [
+    -2.0, 
+    0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 5, 
+   "point": [
+    2.0, 
+    -0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 6, 
+   "point": [
+    2.0, 
+    0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 7, 
+   "point": [
+    -2.0, 
+    -0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 8, 
+   "point": [
+    -1.7499999999999996, 
+    -0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 9, 
+   "point": [
+    -1.2500000000000007, 
+    -0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 10, 
+   "point": [
+    1.25, 
+    0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 11, 
+   "point": [
+    1.75, 
+    0.5, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 12, 
+   "point": [
+    0.25, 
+    0.25, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 13, 
+   "point": [
+    -0.25, 
+    0.25, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 14, 
+   "point": [
+    -0.25, 
+    -0.25, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 15, 
+   "point": [
+    0.25, 
+    -0.25, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 16, 
+   "point": [
+    -0.5, 
+    0.25, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 17, 
+   "point": [
+    0.25, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 18, 
+   "point": [
+    0.5, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 19, 
+   "point": [
+    0.0, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 20, 
+   "point": [
+    -0.25, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 21, 
+   "point": [
+    -0.5, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 22, 
+   "point": [
+    -0.75, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 23, 
+   "point": [
+    -1.0, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 24, 
+   "point": [
+    -1.25, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 25, 
+   "point": [
+    -1.5, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 26, 
+   "point": [
+    -0.5, 
+    -0.25, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 27, 
+   "point": [
+    1.75, 
+    -0.25, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 28, 
+   "point": [
+    1.5, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 29, 
+   "point": [
+    1.75, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 30, 
+   "point": [
+    1.75, 
+    0.25, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 31, 
+   "point": [
+    1.75, 
+    0.5, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 32, 
+   "point": [
+    1.75, 
+    -0.5, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 33, 
+   "point": [
+    2.0, 
+    -0.5, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 34, 
+   "point": [
+    1.75, 
+    -0.5, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 35, 
+   "point": [
+    2.0, 
+    -0.5, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 36, 
+   "point": [
+    2.0, 
+    0.5, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 37, 
+   "point": [
+    1.75, 
+    0.5, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 38, 
+   "point": [
+    2.0, 
+    0.5, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 39, 
+   "point": [
+    1.25, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 40, 
+   "point": [
+    1.0, 
+    0.0, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 41, 
+   "point": [
+    1.0, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 42, 
+   "point": [
+    0.875, 
+    0.0, 
+    0.17500000000000002
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 43, 
+   "point": [
+    0.75, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 44, 
+   "point": [
+    0.75, 
+    0.0, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 45, 
+   "point": [
+    0.5, 
+    0.0, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 46, 
+   "point": [
+    0.5, 
+    0.25, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 47, 
+   "point": [
+    0.5, 
+    -0.25, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 48, 
+   "point": [
+    1.5, 
+    0.0, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 49, 
+   "point": [
+    1.0, 
+    0.0, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 50, 
+   "point": [
+    1.0, 
+    -0.25, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 51, 
+   "point": [
+    1.0, 
+    0.25, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 52, 
+   "point": [
+    0.5, 
+    0.25, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 53, 
+   "point": [
+    0.5, 
+    -0.25, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 54, 
+   "point": [
+    0.75, 
+    0.25, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 55, 
+   "point": [
+    0.75, 
+    0.0, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 56, 
+   "point": [
+    0.75, 
+    -0.25, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 57, 
+   "point": [
+    0.25, 
+    0.0, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 58, 
+   "point": [
+    -1.75, 
+    0.25, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 59, 
+   "point": [
+    -1.75, 
+    -0.25, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 60, 
+   "point": [
+    -1.75, 
+    0.0, 
+    0.050000000000000003
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 61, 
+   "point": [
+    -2.0, 
+    0.5, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 62, 
+   "point": [
+    -2.0, 
+    0.5, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 63, 
+   "point": [
+    -1.75, 
+    0.5, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 64, 
+   "point": [
+    -2.0, 
+    -0.5, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 65, 
+   "point": [
+    -2.0, 
+    -0.5, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 66, 
+   "point": [
+    -1.75, 
+    -0.5, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 67, 
+   "point": [
+    -1.75, 
+    0.5, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 68, 
+   "point": [
+    -1.75, 
+    -0.5, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 69, 
+   "point": [
+    -0.75, 
+    0.0, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 70, 
+   "point": [
+    -1.0, 
+    0.0, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 71, 
+   "point": [
+    -0.875, 
+    0.0, 
+    0.17500000000000002
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 72, 
+   "point": [
+    -1.5, 
+    0.0, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 73, 
+   "point": [
+    -1.0, 
+    0.0, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 74, 
+   "point": [
+    -0.5, 
+    0.0, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 75, 
+   "point": [
+    -1.0, 
+    0.25, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 76, 
+   "point": [
+    -1.0, 
+    -0.25, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 77, 
+   "point": [
+    -0.75, 
+    0.0, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 78, 
+   "point": [
+    -0.5, 
+    0.25, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 79, 
+   "point": [
+    -0.5, 
+    -0.25, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 80, 
+   "point": [
+    -0.25, 
+    0.0, 
+    0.29999999999999999
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 81, 
+   "point": [
+    -1.25, 
+    -0.5, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 82, 
+   "point": [
+    -1.25, 
+    0.0, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 83, 
+   "point": [
+    -1.25, 
+    0.5, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 84, 
+   "point": [
+    -0.75, 
+    -0.25, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 85, 
+   "point": [
+    -0.75, 
+    0.25, 
+    0.55000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 86, 
+   "point": [
+    -1.0, 
+    -0.25, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 87, 
+   "point": [
+    -1.0, 
+    0.0, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 88, 
+   "point": [
+    -1.0, 
+    0.25, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 89, 
+   "point": [
+    -0.25, 
+    0.0, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 90, 
+   "point": [
+    1.0, 
+    0.0, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 91, 
+   "point": [
+    1.25, 
+    0.0, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 92, 
+   "point": [
+    0.25, 
+    0.0, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 93, 
+   "point": [
+    1.25, 
+    0.0, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 94, 
+   "point": [
+    1.0, 
+    0.0, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 95, 
+   "point": [
+    1.5, 
+    0.0, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 96, 
+   "point": [
+    1.25, 
+    0.5, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 97, 
+   "point": [
+    1.25, 
+    -0.5, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 98, 
+   "point": [
+    0.75, 
+    0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 99, 
+   "point": [
+    0.75, 
+    -0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 100, 
+   "point": [
+    0.25, 
+    -0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 101, 
+   "point": [
+    0.25, 
+    0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 102, 
+   "point": [
+    1.0, 
+    0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 103, 
+   "point": [
+    1.0, 
+    0.25, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 104, 
+   "point": [
+    1.0, 
+    -0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 105, 
+   "point": [
+    1.0, 
+    -0.25, 
+    0.80000000000000004
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 106, 
+   "point": [
+    -1.0, 
+    0.0, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 107, 
+   "point": [
+    -1.25, 
+    0.0, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 108, 
+   "point": [
+    -1.0, 
+    -0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 109, 
+   "point": [
+    -1.25, 
+    -0.5, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 110, 
+   "point": [
+    -1.0, 
+    0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 111, 
+   "point": [
+    -1.25, 
+    0.5, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 112, 
+   "point": [
+    -1.5, 
+    0.0, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 113, 
+   "point": [
+    -0.75, 
+    -0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 114, 
+   "point": [
+    -0.75, 
+    0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 115, 
+   "point": [
+    -0.25, 
+    0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 116, 
+   "point": [
+    -0.25, 
+    -0.25, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 117, 
+   "point": [
+    0.5, 
+    0.0, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 118, 
+   "point": [
+    -0.5, 
+    0.0, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 119, 
+   "point": [
+    1.25, 
+    0.5, 
+    1.05
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 120, 
+   "point": [
+    1.25, 
+    -0.5, 
+    1.05
+   ], 
+   "is_grounded": false
+  }
+ ], 
+ "elements": [
+  {
+   "end_node_inds": [
+    0, 
+    1
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    2, 
+    3
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    2, 
+    4
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    5, 
+    6
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    4, 
+    7
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    7, 
+    8
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    8, 
+    9
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    1, 
+    9
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    3, 
+    10
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    10, 
+    11
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    6, 
+    11
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    0, 
+    5
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    12, 
+    13
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    14, 
+    15
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    13, 
+    16
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    17, 
+    18
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    17, 
+    19
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    19, 
+    20
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    20, 
+    21
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    13, 
+    21
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    21, 
+    22
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    16, 
+    22
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    22, 
+    23
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    23, 
+    24
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    24, 
+    25
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    14, 
+    26
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    14, 
+    21
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    22, 
+    26
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    5, 
+    27
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    27, 
+    28
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    27, 
+    29
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    28, 
+    30
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    29, 
+    30
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    6, 
+    30
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    27, 
+    30
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    11, 
+    31
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    0, 
+    32
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    27, 
+    32
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    30, 
+    31
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    27, 
+    33
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    34, 
+    35
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    32, 
+    34
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    33, 
+    35
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    5, 
+    32
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    32, 
+    35
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    5, 
+    35
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    27, 
+    35
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    30, 
+    36
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    37, 
+    38
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    31, 
+    37
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    36, 
+    38
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    6, 
+    31
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    31, 
+    38
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    6, 
+    38
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    30, 
+    38
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    37, 
+    39
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    34, 
+    39
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    40, 
+    41
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    41, 
+    42
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    40, 
+    42
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    42, 
+    43
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    42, 
+    44
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    44, 
+    45
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    18, 
+    44
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    45, 
+    46
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    45, 
+    47
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    40, 
+    48
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    40, 
+    49
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    44, 
+    49
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    47, 
+    50
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    46, 
+    51
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    44, 
+    51
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    44, 
+    50
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    12, 
+    52
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    45, 
+    52
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    17, 
+    45
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    17, 
+    52
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    45, 
+    53
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    15, 
+    53
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    17, 
+    53
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    52, 
+    54
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    44, 
+    55
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    45, 
+    55
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    53, 
+    56
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    12, 
+    57
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    19, 
+    57
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    15, 
+    57
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    58, 
+    59
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    4, 
+    58
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    58, 
+    60
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    25, 
+    58
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    59, 
+    60
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    25, 
+    59
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    7, 
+    59
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    58, 
+    61
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    61, 
+    62
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    4, 
+    63
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    62, 
+    63
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    4, 
+    62
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    58, 
+    62
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    64, 
+    65
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    65, 
+    66
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    7, 
+    65
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    7, 
+    66
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    59, 
+    65
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    24, 
+    67
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    24, 
+    68
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    63, 
+    67
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    62, 
+    67
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    66, 
+    68
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    65, 
+    68
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    59, 
+    64
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    21, 
+    69
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    23, 
+    70
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    70, 
+    71
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    22, 
+    71
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    69, 
+    71
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    23, 
+    71
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    70, 
+    72
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    70, 
+    73
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    69, 
+    73
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    16, 
+    74
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    69, 
+    74
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    26, 
+    74
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    69, 
+    75
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    69, 
+    76
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    26, 
+    76
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    16, 
+    75
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    69, 
+    77
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    74, 
+    77
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    13, 
+    78
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    74, 
+    78
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    20, 
+    74
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    20, 
+    78
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    74, 
+    79
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    14, 
+    79
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    20, 
+    79
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    57, 
+    80
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    19, 
+    80
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    13, 
+    80
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    14, 
+    80
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    76, 
+    81
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    72, 
+    82
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    73, 
+    82
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    75, 
+    83
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    79, 
+    84
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    78, 
+    85
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    77, 
+    84
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    77, 
+    85
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    75, 
+    85
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    3, 
+    83
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    9, 
+    81
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    76, 
+    84
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    84, 
+    86
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    77, 
+    87
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    73, 
+    87
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    85, 
+    88
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    80, 
+    89
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    87, 
+    89
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    86, 
+    87
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    87, 
+    88
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    55, 
+    90
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    49, 
+    90
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    48, 
+    91
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    49, 
+    91
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    89, 
+    92
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    57, 
+    92
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    90, 
+    92
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    91, 
+    93
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    90, 
+    94
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    91, 
+    94
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    36, 
+    95
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    33, 
+    95
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    37, 
+    93
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    34, 
+    93
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    48, 
+    95
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    48, 
+    93
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    51, 
+    96
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    10, 
+    96
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    50, 
+    97
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    1, 
+    97
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    54, 
+    98
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    56, 
+    99
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    56, 
+    100
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    54, 
+    101
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    96, 
+    102
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    98, 
+    103
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    93, 
+    102
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    92, 
+    101
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    93, 
+    104
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    99, 
+    105
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    92, 
+    100
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    97, 
+    104
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    87, 
+    106
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    82, 
+    107
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    82, 
+    106
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    72, 
+    107
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    81, 
+    108
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    81, 
+    109
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    107, 
+    108
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    107, 
+    110
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    83, 
+    110
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    83, 
+    111
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    88, 
+    110
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    68, 
+    109
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    67, 
+    111
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    86, 
+    108
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    61, 
+    112
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    64, 
+    112
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    67, 
+    107
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    68, 
+    107
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    72, 
+    112
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    107, 
+    112
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    84, 
+    113
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    85, 
+    114
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    85, 
+    115
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    84, 
+    116
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    88, 
+    114
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    89, 
+    115
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    89, 
+    116
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    86, 
+    113
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    94, 
+    117
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    98, 
+    101
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    99, 
+    100
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    98, 
+    102
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    93, 
+    95
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    93, 
+    94
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    101, 
+    117
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    99, 
+    104
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    100, 
+    117
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    106, 
+    118
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    114, 
+    115
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    113, 
+    116
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    110, 
+    114
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    115, 
+    118
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    106, 
+    107
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    116, 
+    118
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    108, 
+    113
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    117, 
+    118
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    101, 
+    115
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    100, 
+    116
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    111, 
+    119
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    109, 
+    120
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    51, 
+    54
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    54, 
+    55
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    55, 
+    56
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    50, 
+    56
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    58, 
+    63
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    59, 
+    66
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    2, 
+    63
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    96, 
+    119
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    54, 
+    103
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    37, 
+    119
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    90, 
+    103
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    97, 
+    120
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    104, 
+    105
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    102, 
+    103
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    56, 
+    105
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    34, 
+    120
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    90, 
+    105
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    28, 
+    39
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    15, 
+    18
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    15, 
+    47
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    43, 
+    47
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    12, 
+    18
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    43, 
+    46
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    18, 
+    43
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    41, 
+    43
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    39, 
+    41
+   ]
+  }, 
+  {
+   "end_node_inds": [
+    12, 
+    46
+   ]
+  }
+ ], 
+ "cross_secs": [
+  {
+   "A": 0.00031415926535897931
+  }
+ ], 
+ "materials": [
+  {
+   "E": 1290000, 
+   "G12": 460714.28571428568, 
+   "density": 0.57999999999999996
+  }
+ ]
+}
