@@ -1,0 +1,595 @@
+{
+ "mt_config": {
+  "length_deviation_ratio": 0.40000000000000002, 
+  "clamp_collision_dist": 0.024, 
+  "max_tangent": null, 
+  "clamp_gap": 0.016, 
+  "collision_inds": [], 
+  "shape_deviation": 0.25, 
+  "bar_collision_distance": 0.02, 
+  "contact_inds": [
+   0, 
+   13, 
+   13, 
+   23, 
+   0, 
+   15, 
+   28, 
+   29, 
+   1, 
+   7, 
+   1, 
+   20, 
+   1, 
+   16, 
+   5, 
+   16, 
+   27, 
+   33, 
+   2, 
+   3, 
+   2, 
+   28, 
+   3, 
+   25, 
+   3, 
+   28, 
+   3, 
+   19, 
+   13, 
+   19, 
+   4, 
+   32, 
+   27, 
+   32, 
+   4, 
+   5, 
+   4, 
+   6, 
+   5, 
+   24, 
+   6, 
+   24, 
+   6, 
+   14, 
+   6, 
+   31, 
+   7, 
+   31, 
+   14, 
+   31, 
+   8, 
+   14, 
+   8, 
+   15, 
+   8, 
+   26, 
+   14, 
+   15, 
+   8, 
+   21, 
+   8, 
+   22, 
+   12, 
+   22, 
+   21, 
+   22, 
+   9, 
+   22, 
+   22, 
+   23, 
+   9, 
+   19, 
+   18, 
+   19, 
+   10, 
+   20, 
+   20, 
+   21, 
+   10, 
+   17, 
+   16, 
+   17, 
+   11, 
+   24, 
+   11, 
+   26, 
+   24, 
+   26, 
+   25, 
+   26, 
+   11, 
+   17, 
+   11, 
+   18, 
+   12, 
+   17, 
+   17, 
+   18, 
+   0, 
+   15, 
+   0, 
+   28, 
+   0, 
+   29, 
+   15, 
+   28, 
+   15, 
+   29, 
+   28, 
+   29, 
+   2, 
+   27, 
+   2, 
+   33, 
+   27, 
+   33, 
+   29, 
+   33, 
+   30, 
+   33, 
+   30, 
+   31, 
+   31, 
+   32
+  ], 
+  "opt_weights": [
+   1.0, 
+   10.0, 
+   0.0
+  ]
+ }, 
+ "materials": [
+  {
+   "E": 1290000, 
+   "G12": 460714.28571428568, 
+   "density": 0.57999999999999996
+  }
+ ], 
+ "elements": [
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    0, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    2, 
+    3
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    5
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    6, 
+    4
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    7, 
+    8
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    2, 
+    7
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    9, 
+    7
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    9, 
+    3
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    10, 
+    11
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    12, 
+    13
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    14, 
+    15
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    16, 
+    17
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    16, 
+    10
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    6, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    9, 
+    11
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    11, 
+    18
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    2, 
+    14
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    14, 
+    16
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    16, 
+    12
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    12, 
+    6
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    3, 
+    15
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    15, 
+    10
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    10, 
+    13
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    13, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    17, 
+    7
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    17, 
+    4
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    17, 
+    11
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    8, 
+    19
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    18
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    20, 
+    0
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    20, 
+    21
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    9, 
+    21
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    8, 
+    21
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    19, 
+    20
+   ]
+  }
+ ], 
+ "cross_secs": [
+  {
+   "A": 0.00031415926535897931, 
+   "radius": 0.01
+  }
+ ], 
+ "nodes": [
+  {
+   "node_ind": 0, 
+   "point": [
+    20.108702725443866, 
+    -19.892017231054727, 
+    0.26270499999998798
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 1, 
+   "point": [
+    20.765111990052652, 
+    -19.516544249546467, 
+    0.6377049999999953
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 2, 
+   "point": [
+    19.067521262298392, 
+    -18.319337020069984, 
+    1.1777049999999956
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 3, 
+   "point": [
+    19.067521262298392, 
+    -18.319337020069984, 
+    0.6377049999999953
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 4, 
+   "point": [
+    20.108702725443866, 
+    -19.892017231054727, 
+    1.012704999999988
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 5, 
+   "point": [
+    19.855459093262315, 
+    -20.036875243806652, 
+    0.8327049999999967
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 6, 
+   "point": [
+    20.765111990052652, 
+    -19.516544249546467, 
+    1.1777049999999956
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 7, 
+   "point": [
+    19.067521262298392, 
+    -19.157557819362935, 
+    1.0127049999999955
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 8, 
+   "point": [
+    19.067521262298392, 
+    -19.657047443604291, 
+    0.8327049999999967
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 9, 
+   "point": [
+    19.067521262298392, 
+    -19.157557819362935, 
+    0.2627049999999953
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 10, 
+   "point": [
+    20.012095533110095, 
+    -18.860394931958158, 
+    0.6377049999999953
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 11, 
+   "point": [
+    19.843176889204734, 
+    -19.150260970698238, 
+    0.2627049999999953
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 12, 
+   "point": [
+    20.773998977980067, 
+    -18.856979724846521, 
+    1.1777049999999956
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 13, 
+   "point": [
+    20.773998977980067, 
+    -18.856979724846521, 
+    0.6377049999999953
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 14, 
+   "point": [
+    19.613297073041032, 
+    -18.217340215297867, 
+    1.1777049999999956
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 15, 
+   "point": [
+    19.613297073041032, 
+    -18.217340215297867, 
+    0.6377049999999953
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 16, 
+   "point": [
+    20.012095533110095, 
+    -18.860394931958158, 
+    1.1777049999999956
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 17, 
+   "point": [
+    19.843176889204734, 
+    -19.150260970698238, 
+    1.0127049999999955
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 18, 
+   "point": [
+    20.108702725443859, 
+    -19.892017231054727, 
+    0.2627049999999953
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 19, 
+   "point": [
+    19.855459093262315, 
+    -20.036875243806652, 
+    0.83270499999999537
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 20, 
+   "point": [
+    19.855459093262315, 
+    -20.036875243806652, 
+    0.21770499999999537
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 21, 
+   "point": [
+    19.067521262298392, 
+    -19.657047443604291, 
+    0.21770499999999537
+   ], 
+   "is_grounded": true
+  }
+ ]
+}
