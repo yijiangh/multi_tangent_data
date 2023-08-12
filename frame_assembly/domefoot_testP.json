@@ -293,13 +293,6 @@
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    13, 
-    29
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
     30, 
     12
    ]
@@ -505,6 +498,20 @@
    "end_node_inds": [
     14, 
     17
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    31, 
+    29
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    31, 
+    13
    ]
   }
  ], 
