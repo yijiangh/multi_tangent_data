@@ -1,0 +1,35 @@
+{
+ "mt_config": {
+  "pos_devi": 0.20000000000000001, 
+  "layers": [], 
+  "contactopt_trust_region_start": 0.10000000000000001, 
+  "clamp_collision_dist": 0.024, 
+  "clamp_t_bnd": 0.29999999999999999, 
+  "clamp_gap": 0.016, 
+  "orient_devi": 0.3490658503988659, 
+  "bar_collision_distance": 0.074999999999999997, 
+  "time_out": 200, 
+  "debug_mode": true, 
+  "adjustopt_trust_region_start": 0.10000000000000001, 
+  "bar_available_lengths": [
+   1.0, 
+   1.5
+  ]
+ }, 
+ "materials": [
+  {
+   "E": 1290000, 
+   "G12": 460714.28571428568, 
+   "density": 0.57999999999999996
+  }
+ ], 
+ "elements": [], 
+ "cross_secs": [
+  {
+   "A": 0.00031415926535897931, 
+   "radius": 0.01
+  }
+ ], 
+ "fixed_element_ids": [], 
+ "nodes": []
+}
