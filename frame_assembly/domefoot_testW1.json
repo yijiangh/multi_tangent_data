@@ -12,6 +12,7 @@
   "debug_mode": true, 
   "adjustopt_trust_region_start": 0.10000000000000001, 
   "bar_available_lengths": [
+   0.5, 
    1.0, 
    1.5
   ]
