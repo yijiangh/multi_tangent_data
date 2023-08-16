@@ -13,7 +13,7 @@
   "adjustopt_trust_region_start": 0.10000000000000001, 
   "bar_available_lengths": [
    1.0, 
-   1.5
+   2.0
   ]
  }, 
  "materials": [
@@ -760,15 +760,6 @@
   }
  ], 
  "fixed_element_ids": [
-  22, 
-  33, 
-  35, 
-  56, 
-  57, 
-  68, 
-  70, 
-  91, 
-  94, 
   100
  ], 
  "nodes": [
