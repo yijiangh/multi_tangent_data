@@ -1,10 +1,10 @@
 {
  "mt_config": {
-  "pos_devi": 0.10000000000000001, 
+  "pos_devi": 0.12000000000000001, 
   "layers": [], 
   "contactopt_trust_region_start": 0.10000000000000001, 
   "clamp_collision_dist": 0.024, 
-  "clamp_t_bnd": 0.10000000000000001, 
+  "clamp_t_bnd": 0.12000000000000001, 
   "clamp_gap": 0.016, 
   "orient_devi": 0.26179938779914941, 
   "bar_collision_distance": 0.029999999999999999, 
