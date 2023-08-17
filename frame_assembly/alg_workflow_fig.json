@@ -86,29 +86,23 @@
     6, 
     4
    ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    4, 
-    7
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    6, 
-    7
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    7, 
-    5
-   ]
   }
  ], 
+ "cpp_backend_config": {
+  "length_deviation_ratio": 0.20000000000000001, 
+  "clamp_collision_dist": 0.024, 
+  "max_tangent": null, 
+  "clamp_gap": 0.016, 
+  "collision_inds": [], 
+  "shape_deviation": 0.20000000000000001, 
+  "bar_collision_distance": 0.029999999999999999, 
+  "contact_inds": [], 
+  "opt_weights": [
+   1.0, 
+   10.0, 
+   0.0
+  ]
+ }, 
  "cross_secs": [
   {
    "A": 0.00031415926535897931, 
@@ -179,15 +173,6 @@
     0.0, 
     0.79688901065807316, 
     1.3859887848516563
-   ], 
-   "is_grounded": false
-  }, 
-  {
-   "node_ind": 7, 
-   "point": [
-    0.0, 
-    1.5327339894354464, 
-    1.3468080725369587
    ], 
    "is_grounded": false
   }
