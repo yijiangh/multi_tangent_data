@@ -1,6 +1,6 @@
 {
  "mt_config": {
-  "pos_devi": 0.0999999999999998,
+  "pos_devi": 0.0899999999999998,
   "layers": [
    [
     278, 
@@ -403,7 +403,7 @@
   "clamp_gap": 0.016,
   "orient_devi": 0.26179938779914941, 
   "bar_collision_distance": 0.029999999999999999, 
-  "time_out": 300, 
+  "time_out": 500,
   "debug_mode": true, 
   "adjustopt_trust_region_start": 0.10000000000000001, 
   "bar_available_lengths": [
