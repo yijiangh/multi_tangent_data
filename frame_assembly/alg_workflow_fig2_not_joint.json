@@ -5,13 +5,14 @@
   "contactopt_trust_region_start": 0.10000000000000001, 
   "clamp_collision_dist": 0.024, 
   "clamp_t_bnd": 0.070000000000000007, 
-  "clamp_gap": 0.029999999999999999, 
+  "clamp_gap": 0.016, 
   "orient_devi": 0.26179938779914941, 
   "bar_collision_distance": 0.029999999999999999, 
   "time_out": 300, 
   "debug_mode": true, 
   "adjustopt_trust_region_start": 0.10000000000000001, 
   "bar_available_lengths": [
+   0.5, 
    1.0
   ]
  }, 
@@ -112,7 +113,7 @@
   "length_deviation_ratio": 0.20000000000000001, 
   "clamp_collision_dist": 0.024, 
   "max_tangent": null, 
-  "clamp_gap": 0.029999999999999999, 
+  "clamp_gap": 0.016, 
   "collision_inds": [], 
   "shape_deviation": 0.20000000000000001, 
   "bar_collision_distance": 0.029999999999999999, 

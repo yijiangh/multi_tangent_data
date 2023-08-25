@@ -86,6 +86,27 @@
     6, 
     4
    ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    7
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    6, 
+    7
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    7, 
+    5
+   ]
   }
  ], 
  "cpp_backend_config": {
@@ -173,6 +194,15 @@
     0.0, 
     0.79688901065807316, 
     1.3859887848516563
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 7, 
+   "point": [
+    0.0, 
+    1.630325557521513, 
+    1.6322615797202222
    ], 
    "is_grounded": false
   }
