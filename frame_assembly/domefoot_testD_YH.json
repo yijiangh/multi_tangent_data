@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
  "mt_config": {
   "pos_devi": 0.1, 
@@ -33,4 +34,41 @@
  ], 
  "fixed_element_ids": [], 
  "nodes": []
+=======
+{
+ "mt_config": {
+  "pos_devi": 0.1, 
+  "layers": [], 
+  "contactopt_trust_region_start": 0.10000000000000001, 
+  "clamp_collision_dist": 0.024, 
+  "clamp_t_bnd": 0.10000000000000001, 
+  "clamp_gap": 0.016, 
+  "orient_devi": 0.17453292519943295, 
+  "bar_collision_distance": 0.030000000000000003, 
+  "time_out": 300, 
+  "debug_mode": true, 
+  "adjustopt_trust_region_start": 0.10000000000000001, 
+  "bar_available_lengths": [
+   1.0, 
+   1.5, 
+   2.0
+  ]
+ }, 
+ "materials": [
+  {
+   "E": 1290000, 
+   "G12": 460714.28571428568, 
+   "density": 0.57999999999999996
+  }
+ ], 
+ "elements": [], 
+ "cross_secs": [
+  {
+   "A": 0.00031415926535897931, 
+   "radius": 0.01
+  }
+ ], 
+ "fixed_element_ids": [], 
+ "nodes": []
+>>>>>>> manual_bar_offset
 }
