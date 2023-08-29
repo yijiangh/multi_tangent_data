@@ -5252,11 +5252,11 @@
     176
    ]
   ],
-  layer_range
+  "layer_range" : [11,  12],
   "orient_devi": 0.17453292519943295, 
-  "clamp_t_bnd": 0.120000000000000003,
+  "clamp_t_bnd": 0.150000000000000003,
   "bar_collision_distance": 0.02, 
-  "pos_devi": 0.120000000000000003,
+  "pos_devi": 0.150000000000000003,
   "debug_mode": true, 
   "adjustopt_trust_region_start": 0.050000000000000003, 
   "bar_available_lengths": [
