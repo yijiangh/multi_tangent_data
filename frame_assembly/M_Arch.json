@@ -1270,7 +1270,9 @@
    "radius": 0.01
   }
  ], 
- "fixed_element_ids": [], 
+ "fixed_element_ids": [
+  37
+ ], 
  "nodes": [
   {
    "node_ind": 0, 
