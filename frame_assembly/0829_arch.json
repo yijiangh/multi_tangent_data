@@ -4969,19 +4969,19 @@
     54
    ]
   ],
-  "layer_range" : [3, 4],
-  "orient_devi": 0.26179938779914941, 
-  "clamp_t_bnd": 0.24999999999999999,
-  "bar_collision_distance": 0.032000000000000001, 
-  "pos_devi": 0.10000000000000001, 
+  "layer_range" : [1, 2],
+  "orient_devi": 0.10179938779914941,
+  "clamp_t_bnd": 0.0599999999999999,
+  "bar_collision_distance": 0.022000000000000001,
+  "pos_devi": 0.05000000000000001,
   "debug_mode": true, 
-  "adjustopt_trust_region_start": 0.050000000000000003, 
+  "adjustopt_trust_region_start": 0.10000000000000003,
   "bar_available_lengths": [
    1.0
   ], 
   "clamp_collision_dist": 0.024, 
   "time_out": 200, 
-  "contactopt_trust_region_start": 0.050000000000000003, 
+  "contactopt_trust_region_start": 0.0500000000000003,
   "clamp_gap": 0.016
  }, 
  "fixed_element_ids": [
