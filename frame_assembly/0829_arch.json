@@ -4968,9 +4968,10 @@
     279, 
     54
    ]
-  ], 
+  ],
+  "layer_range" : [3, 4],
   "orient_devi": 0.26179938779914941, 
-  "clamp_t_bnd": 0.25, 
+  "clamp_t_bnd": 0.24999999999999999,
   "bar_collision_distance": 0.032000000000000001, 
   "pos_devi": 0.10000000000000001, 
   "debug_mode": true, 
