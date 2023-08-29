@@ -4971,16 +4971,16 @@
   ], 
   "orient_devi": 0.26179938779914941, 
   "clamp_t_bnd": 0.25, 
-  "bar_collision_distance": 0.035000000000000003, 
+  "bar_collision_distance": 0.032000000000000001, 
   "pos_devi": 0.10000000000000001, 
   "debug_mode": true, 
-  "adjustopt_trust_region_start": 0.10000000000000001, 
+  "adjustopt_trust_region_start": 0.050000000000000003, 
   "bar_available_lengths": [
    1.0
   ], 
   "clamp_collision_dist": 0.024, 
   "time_out": 200, 
-  "contactopt_trust_region_start": 0.10000000000000001, 
+  "contactopt_trust_region_start": 0.050000000000000003, 
   "clamp_gap": 0.016
  }, 
  "fixed_element_ids": [
@@ -4989,6 +4989,8 @@
   397, 
   238, 
   59, 
-  385
+  385, 
+  451, 
+  160
  ]
 }
