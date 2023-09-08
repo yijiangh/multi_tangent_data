@@ -333,15 +333,16 @@
     232, 
     231
    ]
-  ], 
+  ],
+  "layer_range" : [-1, 0],
   "contactopt_trust_region_start": 0.10000000000000001, 
   "clamp_collision_dist": 0.024, 
   "clamp_t_bnd": 0.20000000000000001, 
   "clamp_gap": 0.016, 
   "orient_devi": 0.43633231299858238, 
-  "bar_collision_distance": 0.029999999999999999, 
+  "bar_collision_distance": 0.021999999999999999,
   "time_out": 300, 
-  "debug_mode": true, 
+  "debug_mode": false,
   "adjustopt_trust_region_start": 0.10000000000000001, 
   "bar_available_lengths": [
    1.0
