@@ -6,8 +6,8 @@
   "clamp_collision_dist": 0.024, 
   "clamp_t_bnd": 0.20000000000000001, 
   "clamp_gap": 0.016, 
-  "orient_devi": 0.2, 
-  "bar_collision_distance": 0.022, 
+  "orient_devi": 0.43633231299858238, 
+  "bar_collision_distance": 0.029999999999999999, 
   "time_out": 300, 
   "debug_mode": true, 
   "adjustopt_trust_region_start": 0.10000000000000001, 
@@ -40,42 +40,21 @@
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    1, 
-    2
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    3, 
-    0
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    2, 
+    0, 
     3
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    3, 
-    1
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    0, 
+    1, 
     4
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    0, 
+    1, 
     5
    ]
   }, 
@@ -104,13 +83,13 @@
    "cross_secs_ind": 0, 
    "end_node_inds": [
     7, 
-    1
+    3
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    0, 
+    1, 
     8
    ]
   }, 
@@ -124,28 +103,21 @@
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    9, 
-    1
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    0, 
+    1, 
     9
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    1, 
+    3, 
     6
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    1, 
+    3, 
     4
    ]
   }, 
@@ -153,14 +125,14 @@
    "cross_secs_ind": 0, 
    "end_node_inds": [
     10, 
-    3
+    0
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
     11, 
-    3
+    0
    ]
   }, 
   {
@@ -237,7 +209,7 @@
    "cross_secs_ind": 0, 
    "end_node_inds": [
     16, 
-    3
+    0
    ]
   }, 
   {
@@ -547,6 +519,34 @@
     29, 
     27
    ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    3, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    1, 
+    2
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    2, 
+    3
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    9, 
+    3
+   ]
   }
  ], 
  "cpp_backend_config": {
@@ -571,29 +571,26 @@
   }
  ], 
  "fixed_element_ids": [
-  69, 
-  70, 
-  71, 
-  72, 
-  67, 
-  68
+  66, 
+  63, 
+  67
  ], 
  "nodes": [
   {
    "node_ind": 0, 
    "point": [
-    -299.37007626181986, 
-    -19536.23815299488, 
-    852.2903755217834
+    -299.74097649228668, 
+    -19536.024015157232, 
+    852.93155607091853
    ], 
    "is_grounded": false
   }, 
   {
    "node_ind": 1, 
    "point": [
-    -300.11187415031139, 
-    -19536.238157332158, 
-    852.29037552181671
+    -299.37007626181986, 
+    -19536.23815299488, 
+    852.2903755217834
    ], 
    "is_grounded": false
   }, 
@@ -609,9 +606,9 @@
   {
    "node_ind": 3, 
    "point": [
-    -299.74097649228668, 
-    -19536.024015157232, 
-    852.93155607091853
+    -300.11187415031139, 
+    -19536.238157332158, 
+    852.29037552181671
    ], 
    "is_grounded": false
   }, 
