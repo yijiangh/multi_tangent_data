@@ -1,0 +1,127 @@
+{
+ "nodes": [
+  {
+   "point": [
+    0.0, 
+    0.0, 
+    0.0
+   ], 
+   "node_ind": 0, 
+   "is_grounded": false
+  }, 
+  {
+   "point": [
+    0.80000000000000004, 
+    0.0, 
+    0.0
+   ], 
+   "node_ind": 1, 
+   "is_grounded": false
+  }, 
+  {
+   "point": [
+    0.24721359549995797, 
+    0.76084521303612285, 
+    0.0
+   ], 
+   "node_ind": 2, 
+   "is_grounded": false
+  }, 
+  {
+   "point": [
+    -0.64721359549995794, 
+    0.47022820183397862, 
+    0.0
+   ], 
+   "node_ind": 3, 
+   "is_grounded": false
+  }, 
+  {
+   "point": [
+    -0.64721359549995805, 
+    -0.47022820183397845, 
+    0.0
+   ], 
+   "node_ind": 4, 
+   "is_grounded": false
+  }, 
+  {
+   "point": [
+    0.24721359549995781, 
+    -0.76084521303612296, 
+    0.0
+   ], 
+   "node_ind": 5, 
+   "is_grounded": false
+  }
+ ], 
+ "cross_secs": [
+  {
+   "A": 0.00031415926535897931, 
+   "radius": 0.01
+  }
+ ], 
+ "materials": [
+  {
+   "G12": 460714.28571428568, 
+   "E": 1290000, 
+   "density": 0.57999999999999996
+  }
+ ], 
+ "elements": [
+  {
+   "end_node_inds": [
+    0, 
+    1
+   ], 
+   "cross_secs_ind": 0
+  }, 
+  {
+   "end_node_inds": [
+    0, 
+    2
+   ], 
+   "cross_secs_ind": 0
+  }, 
+  {
+   "end_node_inds": [
+    0, 
+    3
+   ], 
+   "cross_secs_ind": 0
+  }, 
+  {
+   "end_node_inds": [
+    0, 
+    4
+   ], 
+   "cross_secs_ind": 0
+  }, 
+  {
+   "end_node_inds": [
+    0, 
+    5
+   ], 
+   "cross_secs_ind": 0
+  }
+ ], 
+ "mt_config": {
+  "layers": [], 
+  "orient_devi": 0.034906585039886591, 
+  "clamp_t_bnd": 0.050000000000000003, 
+  "bar_collision_distance": 0.02, 
+  "pos_devi": 0.050000000000000003, 
+  "debug_mode": true, 
+  "adjustopt_trust_region_start": 0.050000000000000003, 
+  "bar_available_lengths": [
+   1.0
+  ], 
+  "clamp_collision_dist": 0.024, 
+  "time_out": 200, 
+  "contactopt_trust_region_start": 0.050000000000000003, 
+  "clamp_gap": 0.016
+ }, 
+ "fixed_element_ids": [
+  0
+ ]
+}
