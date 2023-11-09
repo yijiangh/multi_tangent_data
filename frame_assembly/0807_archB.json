@@ -1,0 +1,1054 @@
+{
+ "mt_config": {
+  "length_deviation_ratio": 0.25, 
+  "clamp_collision_dist": 0.024, 
+  "max_tangent": null, 
+  "clamp_gap": 0.016, 
+  "collision_inds": [], 
+  "shape_deviation": 0.40000000000000002, 
+  "bar_collision_distance": 0.02, 
+  "contact_inds": [
+   0, 
+   31, 
+   0, 
+   33, 
+   33, 
+   49, 
+   0, 
+   1, 
+   0, 
+   46, 
+   46, 
+   48, 
+   1, 
+   2, 
+   1, 
+   43, 
+   43, 
+   45, 
+   2, 
+   3, 
+   2, 
+   40, 
+   40, 
+   42, 
+   3, 
+   4, 
+   3, 
+   37, 
+   37, 
+   39, 
+   4, 
+   5, 
+   4, 
+   52, 
+   52, 
+   54, 
+   5, 
+   6, 
+   5, 
+   55, 
+   55, 
+   57, 
+   6, 
+   7, 
+   6, 
+   58, 
+   58, 
+   60, 
+   7, 
+   8, 
+   7, 
+   61, 
+   61, 
+   63, 
+   9, 
+   30, 
+   9, 
+   65, 
+   65, 
+   66, 
+   9, 
+   10, 
+   9, 
+   62, 
+   62, 
+   63, 
+   10, 
+   11, 
+   10, 
+   59, 
+   59, 
+   60, 
+   11, 
+   12, 
+   11, 
+   56, 
+   56, 
+   57, 
+   12, 
+   13, 
+   12, 
+   53, 
+   53, 
+   54, 
+   13, 
+   14, 
+   13, 
+   38, 
+   38, 
+   39, 
+   14, 
+   15, 
+   14, 
+   41, 
+   41, 
+   42, 
+   15, 
+   16, 
+   15, 
+   44, 
+   44, 
+   45, 
+   16, 
+   17, 
+   16, 
+   47, 
+   47, 
+   48, 
+   18, 
+   27, 
+   18, 
+   49, 
+   49, 
+   50, 
+   18, 
+   19, 
+   18, 
+   46, 
+   46, 
+   47, 
+   19, 
+   20, 
+   19, 
+   43, 
+   43, 
+   44, 
+   20, 
+   21, 
+   20, 
+   40, 
+   40, 
+   41, 
+   21, 
+   22, 
+   21, 
+   37, 
+   37, 
+   38, 
+   22, 
+   23, 
+   22, 
+   52, 
+   52, 
+   53, 
+   23, 
+   24, 
+   23, 
+   55, 
+   55, 
+   56, 
+   24, 
+   25, 
+   24, 
+   58, 
+   58, 
+   59, 
+   25, 
+   26, 
+   25, 
+   61, 
+   61, 
+   62, 
+   27, 
+   31, 
+   27, 
+   32, 
+   28, 
+   32, 
+   28, 
+   33, 
+   29, 
+   34, 
+   29, 
+   35, 
+   30, 
+   35, 
+   30, 
+   36, 
+   0, 
+   31, 
+   0, 
+   33, 
+   33, 
+   49, 
+   8, 
+   34, 
+   8, 
+   36, 
+   36, 
+   64, 
+   2, 
+   3, 
+   2, 
+   40, 
+   40, 
+   42, 
+   17, 
+   28, 
+   17, 
+   50, 
+   50, 
+   51, 
+   26, 
+   29, 
+   26, 
+   64, 
+   64, 
+   65
+  ], 
+  "opt_weights": [
+   1.0, 
+   10.0, 
+   0.0
+  ]
+ }, 
+ "materials": [
+  {
+   "E": 1290000, 
+   "G12": 460714.28571428568, 
+   "density": 0.57999999999999996
+  }
+ ], 
+ "elements": [
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    0, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    2, 
+    0
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    3, 
+    2
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    3
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    5, 
+    4
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    6, 
+    5
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    7, 
+    6
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    8, 
+    7
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    9, 
+    8
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    10, 
+    11
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    12, 
+    10
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    13, 
+    12
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    14, 
+    13
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    15, 
+    14
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    16, 
+    15
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    17, 
+    16
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    18, 
+    17
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    19, 
+    18
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    20, 
+    21
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    22, 
+    20
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    23, 
+    22
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    24, 
+    23
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    25, 
+    24
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    26, 
+    25
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    27, 
+    26
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    28, 
+    27
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    29, 
+    28
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    30, 
+    31
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    32, 
+    33
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    29, 
+    34
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    11, 
+    35
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    36, 
+    31
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    31, 
+    33
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    33, 
+    36
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    9, 
+    34
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    34, 
+    35
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    35, 
+    9
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    24
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    24, 
+    15
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    15, 
+    4
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    37, 
+    23
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    23, 
+    16
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    16, 
+    37
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    2, 
+    22
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    22, 
+    17
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    17, 
+    2
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    0, 
+    20
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    20, 
+    18
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    18, 
+    0
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    1, 
+    21
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    21, 
+    19
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    19, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    5, 
+    25
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    25, 
+    14
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    14, 
+    5
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    6, 
+    26
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    26, 
+    13
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    13, 
+    6
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    7, 
+    27
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    27, 
+    12
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    12, 
+    7
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    8, 
+    28
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    28, 
+    10
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    10, 
+    8
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    9, 
+    29
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    29, 
+    11
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    11, 
+    9
+   ]
+  }
+ ], 
+ "cross_secs": [
+  {
+   "A": 0.00031415926535897931, 
+   "radius": 0.01
+  }
+ ], 
+ "nodes": [
+  {
+   "node_ind": 0, 
+   "point": [
+    348.21404703530328, 
+    -183.56289393522974, 
+    0.67868438266104936
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 1, 
+   "point": [
+    348.61505943168095, 
+    -183.56289393522974, 
+    0.0
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 2, 
+   "point": [
+    347.75037517971816, 
+    -183.56289393522974, 
+    1.3158732047535928
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 3, 
+   "point": [
+    347.19342560008886, 
+    -183.56289393522974, 
+    1.8720625328380931
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 4, 
+   "point": [
+    346.50405668674358, 
+    -183.56289393522974, 
+    2.2443146578838169
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 5, 
+   "point": [
+    345.72606219567336, 
+    -183.56289393522974, 
+    2.2443146578838169
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 6, 
+   "point": [
+    345.03669328969227, 
+    -183.56289393522974, 
+    1.8720625235595065
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 7, 
+   "point": [
+    344.47974370269878, 
+    -183.56289393522974, 
+    1.3158732047535928
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 8, 
+   "point": [
+    344.01607184711366, 
+    -183.56289393522974, 
+    0.67868438266104936
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 9, 
+   "point": [
+    343.615059450736, 
+    -183.56289393522974, 
+    0.0
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 10, 
+   "point": [
+    343.30143656772174, 
+    -184.06289393522974, 
+    1.1678637132223628
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 11, 
+   "point": [
+    342.865059450736, 
+    -184.06289393522974, 
+    0.43301270189221841
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 12, 
+   "point": [
+    343.82811580724143, 
+    -184.06289393522974, 
+    1.8862950537932528
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 13, 
+   "point": [
+    344.51597276312134, 
+    -184.06289393522974, 
+    2.5640525041283797
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 14, 
+   "point": [
+    345.50923200872018, 
+    -184.06289393522974, 
+    3.08275646864104
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 15, 
+   "point": [
+    346.72088687369677, 
+    -184.06289393522974, 
+    3.08275646864104
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 16, 
+   "point": [
+    347.71414611929561, 
+    -184.06289393522974, 
+    2.5640525041283797
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 17, 
+   "point": [
+    348.40200307517551, 
+    -184.06289393522974, 
+    1.8862950537932528
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 18, 
+   "point": [
+    348.92868231469521, 
+    -184.06289393522974, 
+    1.1678637132223628
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 19, 
+   "point": [
+    349.36505943168095, 
+    -184.06289393522974, 
+    0.43301270189221841
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 20, 
+   "point": [
+    348.92868231469521, 
+    -183.06289393522974, 
+    1.1678637132223628
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 21, 
+   "point": [
+    349.36505943168095, 
+    -183.06289393522974, 
+    0.43301270189221841
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 22, 
+   "point": [
+    348.40200307517551, 
+    -183.06289393522974, 
+    1.8862950537932528
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 23, 
+   "point": [
+    347.71414611929561, 
+    -183.06289393522974, 
+    2.5640525041283797
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 24, 
+   "point": [
+    346.72088687369677, 
+    -183.06289393522974, 
+    3.08275646864104
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 25, 
+   "point": [
+    345.50923200872018, 
+    -183.06289393522974, 
+    3.08275646864104
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 26, 
+   "point": [
+    344.51597276312134, 
+    -183.06289393522974, 
+    2.5640525041283797
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 27, 
+   "point": [
+    343.82811580724143, 
+    -183.06289393522974, 
+    1.8862950537932528
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 28, 
+   "point": [
+    343.30143656772174, 
+    -183.06289393522974, 
+    1.1678637132223628
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 29, 
+   "point": [
+    342.865059450736, 
+    -183.06289393522974, 
+    0.43301270189221841
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 30, 
+   "point": [
+    349.365059450736, 
+    -183.06289393522974, 
+    0.43301270189221841
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 31, 
+   "point": [
+    349.48108485452047, 
+    -183.06289393522974, 
+    0.0
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 32, 
+   "point": [
+    349.365059450736, 
+    -184.06289393522974, 
+    0.43301270189221841
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 33, 
+   "point": [
+    349.48108485452047, 
+    -184.06289393522974, 
+    0.0
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 34, 
+   "point": [
+    342.74903404695158, 
+    -183.06289393522974, 
+    0.0
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 35, 
+   "point": [
+    342.74903404695158, 
+    -184.06289393522974, 
+    0.0
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 36, 
+   "point": [
+    348.615059450736, 
+    -183.56289393522974, 
+    0.0
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 37, 
+   "point": [
+    347.19342559272468, 
+    -183.56289393522974, 
+    1.8720625235595065
+   ], 
+   "is_grounded": false
+  }
+ ]
+}

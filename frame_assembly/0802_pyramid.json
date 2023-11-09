@@ -1,0 +1,230 @@
+{
+ "mt_config": {
+  "length_deviation_ratio": 0.25, 
+  "clamp_collision_dist": 0.024, 
+  "max_tangent": null, 
+  "clamp_gap": 0.016, 
+  "collision_inds": [], 
+  "shape_deviation": 0.40000000000000002, 
+  "bar_collision_distance": 0.02, 
+  "contact_inds": [
+   0, 
+   1, 
+   0, 
+   9, 
+   6, 
+   9, 
+   1, 
+   2, 
+   1, 
+   8, 
+   7, 
+   8, 
+   2, 
+   3, 
+   2, 
+   11, 
+   5, 
+   11, 
+   0, 
+   3, 
+   0, 
+   10, 
+   4, 
+   10, 
+   4, 
+   5, 
+   4, 
+   7, 
+   6, 
+   7
+  ], 
+  "opt_weights": [
+   1.0, 
+   10.0, 
+   0.0
+  ]
+ }, 
+ "materials": [
+  {
+   "E": 1290000, 
+   "G12": 460714.28571428568, 
+   "density": 0.57999999999999996
+  }
+ ], 
+ "elements": [
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    0, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    1, 
+    2
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    2, 
+    3
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    3, 
+    0
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    0
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    3
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    4, 
+    2
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    5, 
+    2
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    6, 
+    1
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    7, 
+    0
+   ]
+  }, 
+  {
+   "cross_secs_ind": 0, 
+   "end_node_inds": [
+    8, 
+    3
+   ]
+  }
+ ], 
+ "cross_secs": [
+  {
+   "A": 0.00031415926535897931, 
+   "radius": 0.01
+  }
+ ], 
+ "nodes": [
+  {
+   "node_ind": 0, 
+   "point": [
+    -1.5606176448882239, 
+    3.540912799076092, 
+    0.40000000000000002
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 1, 
+   "point": [
+    -0.76061764488822359, 
+    3.540912799076092, 
+    0.40000000000000002
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 2, 
+   "point": [
+    -0.76061764488822359, 
+    4.3409127990760918, 
+    0.40000000000000002
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 3, 
+   "point": [
+    -1.5606176448882239, 
+    4.3409127990760918, 
+    0.40000000000000002
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 4, 
+   "point": [
+    -1.1606176448882235, 
+    3.9409127990760919, 
+    1.068486627166287
+   ], 
+   "is_grounded": false
+  }, 
+  {
+   "node_ind": 5, 
+   "point": [
+    -0.76061764488822359, 
+    4.3409127990760918, 
+    0.0
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 6, 
+   "point": [
+    -0.76061764488822359, 
+    3.540912799076092, 
+    0.0
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 7, 
+   "point": [
+    -1.5606176448882239, 
+    3.540912799076092, 
+    0.0
+   ], 
+   "is_grounded": true
+  }, 
+  {
+   "node_ind": 8, 
+   "point": [
+    -1.5606176448882239, 
+    4.3409127990760918, 
+    0.0
+   ], 
+   "is_grounded": true
+  }
+ ]
+}
