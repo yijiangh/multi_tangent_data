@@ -1,0 +1,42 @@
+{
+"line_pt_pairs": [],
+"contact_id_pairs": [],
+"coupler_pt_pairs": [],
+"half_couplers": [],
+"nstatus": 0,
+"opt_line_pos": [],
+"opt_line_orient": [],
+"opt_edge_ids": [],
+"opt_parameters": {
+"pos_devi": 0.1,
+"layers": [],
+"contactopt_trust_region_start": 0.1,
+"clamp_collision_dist": 0.024,
+"clamp_t_bnd": 0.2,
+"clamp_gap": 0.016,
+"orient_devi": 0.4363323129985824,
+"bar_collision_distance": 0.03,
+"time_out": 300,
+"debug_mode": true,
+"adjustopt_trust_region_start": 0.1,
+"bar_available_lengths": [
+1.0
+],
+"opt_tol": 0.001,
+"trust_region_lobnd": 1e-06,
+"trust_region_upbnd": 1.0,
+"contact_ignore_para_tol": 1e-06,
+"line_para_tol": 0.0001,
+"bigM": 1,
+"pos_tol": 1e-06,
+"duplicate_vertices_tol": 0.001,
+"bar_contact_distance_tol": 0,
+"bar_contact_distance": 0.018000000000000002,
+"fixed_contact_pairs": [],
+"clamp_extension_length": 0.03,
+"number_clamp_on_joint": [
+3,
+3.1
+]
+}
+}
