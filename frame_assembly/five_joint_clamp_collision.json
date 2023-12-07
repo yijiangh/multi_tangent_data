@@ -1,24 +1,7 @@
 {
  "mt_config": {
   "pos_devi": 0.10000000000000001, 
-  "extra_collision_pairs": [
-   [
-    17, 
-    18
-   ], 
-   [
-    15, 
-    16
-   ], 
-   [
-    11, 
-    12
-   ], 
-   [
-    13, 
-    14
-   ]
-  ], 
+  "extra_collision_pairs": [], 
   "layers": [], 
   "contactopt_trust_region_start": 0.10000000000000001, 
   "clamp_collision_dist": 0.024, 
@@ -31,9 +14,7 @@
   "fixed_contact_pairs": [], 
   "adjustopt_trust_region_start": 0.10000000000000001, 
   "bar_available_lengths": [
-   0.5, 
-   1.0, 
-   1.5
+   0.59999999999999998
   ]
  }, 
  "materials": [
@@ -54,50 +35,29 @@
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    1, 
+    0, 
     2
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    1, 
+    0, 
     3
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    1, 
+    0, 
     4
    ]
   }, 
   {
    "cross_secs_ind": 0, 
    "end_node_inds": [
-    1, 
+    0, 
     5
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    1, 
-    6
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    1, 
-    7
-   ]
-  }, 
-  {
-   "cross_secs_ind": 0, 
-   "end_node_inds": [
-    1, 
-    8
    ]
   }
  ], 
@@ -123,20 +83,11 @@
   }
  ], 
  "fixed_element_ids": [
-  1
+  2
  ], 
  "nodes": [
   {
    "node_ind": 0, 
-   "point": [
-    0.38170342240192107, 
-    0.31878964358590928, 
-    -0.051726786764978647
-   ], 
-   "is_grounded": false
-  }, 
-  {
-   "node_ind": 1, 
    "point": [
     0.0, 
     0.0, 
@@ -145,65 +96,47 @@
    "is_grounded": false
   }, 
   {
+   "node_ind": 1, 
+   "point": [
+    0.42807197739578107, 
+    0.0, 
+    0.0
+   ], 
+   "is_grounded": false
+  }, 
+  {
    "node_ind": 2, 
    "point": [
-    -0.26836501543559965, 
-    -0.40865240230080163, 
-    -0.10480187299869306
+    0.13228151583098471, 
+    0.40712064354560923, 
+    0.0
    ], 
    "is_grounded": false
   }, 
   {
    "node_ind": 3, 
    "point": [
-    -0.13250212597164776, 
-    0.12871872412858945, 
-    0.4646231555483451
+    -0.34631750452887522, 
+    0.25161439523291707, 
+    0.0
    ], 
    "is_grounded": false
   }, 
   {
    "node_ind": 4, 
    "point": [
-    -0.26437792347753453, 
-    0.20948795115632893, 
-    -0.36907873400946639
+    -0.34631750452887528, 
+    -0.25161439523291695, 
+    0.0
    ], 
    "is_grounded": false
   }, 
   {
    "node_ind": 5, 
    "point": [
-    0.25835921980481003, 
-    -0.19427673586931726, 
-    -0.38145388114661172
-   ], 
-   "is_grounded": false
-  }, 
-  {
-   "node_ind": 6, 
-   "point": [
-    0.36011456186333418, 
-    -0.12135131481910034, 
-    0.32494824314905052
-   ], 
-   "is_grounded": false
-  }, 
-  {
-   "node_ind": 7, 
-   "point": [
-    -0.014265596974119632, 
-    -0.40014811440052206, 
-    0.29946281786672402
-   ], 
-   "is_grounded": false
-  }, 
-  {
-   "node_ind": 8, 
-   "point": [
-    -0.47365890018601636, 
-    0.11456805926748169, 
-    0.11189908878206367
+    0.1322815158309846, 
+    -0.40712064354560928, 
+    0.0
    ], 
    "is_grounded": false
   }
